@@ -1,9 +1,9 @@
 <?php
-include 'elementPage>head.php';
+include 'elementPage/head.php';
 ?>
 
 <body>
-    <h1>HELLO</h1>
+    <?php include 'elementPage/menu.php'; ?>
 </body>
 
 </html>
