@@ -1,5 +1,5 @@
 <?php
-include 'head.php';
+include 'elementPage>head.php';
 ?>
 
 <body>
